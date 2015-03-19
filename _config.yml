@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.com/ebimodeling/2015-01-01-longlab"
-workshop_site   : "http://ebimodeling.github.io/2015-01-01-longlab/"
+workshop_repo   : "http://github.com/ebimodeling/software-carpentry"
+workshop_site   : "http://ebimodeling.github.io/software-carpentry/"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
